@@ -1,7 +1,8 @@
 import Image from 'next/image'
+import HomeCompontent from "@/components/Home";
 
 export default function Home() {
   return (
-  <div>this is the project for the three js</div>
+<><HomeCompontent /></>
   )
 }
